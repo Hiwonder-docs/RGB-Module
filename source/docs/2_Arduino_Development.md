@@ -8,11 +8,11 @@
 
 This section illustrates connecting a 4-pin cable to the D8 and D9 ports on the Arduino expansion board. You may refer to the diagram below.
 
-<img class="common_img" src="../_static/media/chapter_1/section_2/media/image4.png" style="width:500px" />
+<img class="common_img" src="../_static/media/chapter_1/section_2/media/image4.png" style="width:700px" />
 
 If you do not have an Arduino expansion board, use a Dupont wire to directly connect to the Arduino development board, just as below:
 
-<img class="common_img" src="../_static/media/chapter_1/section_2/media/image5.png" style="width:500px" />
+<img class="common_img" src="../_static/media/chapter_1/section_2/media/image5.png" style="width:700px" />
 
 > [!NOTE]
 >

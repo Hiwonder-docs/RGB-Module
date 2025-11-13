@@ -1,6 +1,6 @@
 # 1. RGB Follower User Guide
 
-<img class="common_img" src="../_static/media/chapter_1/section_1/media/image2.png" style="width:200px" />
+<img class="common_img" src="../_static/media/chapter_1/section_1/media/image2.png" style="width:300px" />
 
 ## 1.1 RGB Module Description
 

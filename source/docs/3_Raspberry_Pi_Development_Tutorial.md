@@ -8,7 +8,7 @@
 
 This RGB sensor uses a Dupont wire connected to the Raspberry Pi for illustration. The sensor is connected to GPIO12 as shown below:
 
-<img class="common_img" src="../_static/media/chapter_1/section_3/media/image3.png" style="width:500px" />
+<img class="common_img" src="../_static/media/chapter_1/section_3/media/image3.png" style="width:700px" />
 
 ### 3.1.2 Environment Configuration
 
